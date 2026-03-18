@@ -1,0 +1,5 @@
+{"level":"info","message":{"event":"LOGIN_SUCCESS","ip":"::1","usuario":"medina@gmail.com"},"timestamp":"2026-03-11T01:53:44.960Z"}
+{"level":"info","message":{"event":"LOGIN_SUCCESS","ip":"::1","usuario":"medina@gmail.com"},"timestamp":"2026-03-13T00:41:02.148Z"}
+{"level":"warn","message":{"event":"LOGIN_FAILED","ip":"::1","usuario":"medina@gmail.com"},"timestamp":"2026-03-13T01:11:03.783Z"}
+{"level":"warn","message":{"event":"LOGIN_FAILED","ip":"::1","usuario":"medina@gil.com"},"timestamp":"2026-03-13T01:12:52.613Z"}
+{"level":"info","message":{"event":"USER_REGISTER","ip":"::1","usuario":"delira@gmail.com"},"timestamp":"2026-03-13T01:13:53.854Z"}{"level":"warn","message":{"event":"LOGIN_FAILED","ip":"::1","usuario":"medina@gmail.com"},"timestamp":"2026-03-18T01:39:47.608Z"}
